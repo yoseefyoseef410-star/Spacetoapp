@@ -1,3 +1,4 @@
+
 {
   "name": "LinguaLevel",
   "short_name": "LinguaLevel",
@@ -10,9 +11,13 @@
   "icons": [
     {
       "src": "/mm.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/mm.jpg",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
   ]
 }
-
