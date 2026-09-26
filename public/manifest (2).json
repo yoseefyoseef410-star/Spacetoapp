@@ -1,12 +1,10 @@
 {
-  "background_color": "#ffffff",
-  "description": "منصة تفاعلية متطورة لتحديد مستوى اللغة الإنجليزية (CEFR A1-C2) مع نظام تقييم فوري، معمل متقدم لتطوير نطق الكلمات، وتحليل أداء ذكي وشامل مدعوم بالذكاء الاصطناعي.",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "English king",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "Engking",
+  "name": "LinguaLevel",
+  "short_name": "LinguaLevel",
   "start_url": "/",
-  "theme_color": "#ffffff"
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "منصة تفاعلية متطورة لتحديد مستوى اللغة مع نظام تقييم فوري"
 }
